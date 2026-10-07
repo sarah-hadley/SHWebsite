@@ -1,7 +1,7 @@
-name: "SHWebsite"
+name: "SHLinguistics"
 output_dir: "docs"
 navbar:
-  title: "Sarah Hadley Linguistics"
+  title: "Sarah Hadley"
   left:
     - text: "Home"
       href: index.html

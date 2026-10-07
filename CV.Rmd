@@ -2,4 +2,230 @@
 title: "CV"
 ---
 
-My CV.
+---
+title: "Curriculum Vitae"
+---
+
+```{css, echo=FALSE}
+.cv-date {
+  float: right;
+  color: #6c757d;
+  font-weight: normal;
+  margin-left: 1em;
+}
+.cv-section {
+  border-bottom: 2px solid #dee2e6;
+  padding-bottom: 4px;
+  margin-top: 2em;
+}
+.cv-entry {
+  margin-bottom: 1.1em;
+}
+.cv-entry ul {
+  margin-top: 0.3em;
+}
+.cv-pubs li {
+  margin-bottom: 0.6em;
+}
+@media (max-width: 600px) {
+  .cv-date { float: none; display: block; }
+}
+```
+
+**Sarah Hadley, B.Sc (Hons), M.A**\
+PhD Student, Department of Linguistics, University of Alberta\
+Edmonton, Alberta\
+[smhadley\@ualberta.ca](mailto:smhadley@ualberta.ca)
+
+## Education {.cv-section}
+
+::: cv-entry
+**PhD, Linguistics** [September 2026 – present]{.cv-date}\
+University of Alberta, Edmonton, AB\
+Supervisor: Dr. Juhani Järvikivi\
+Expected completion: 2030
+:::
+
+::: cv-entry
+**Master of Arts, General Linguistics** [2026]{.cv-date}\
+University of Saskatchewan, Saskatoon, SK\
+Thesis: *An Ultrasound Study of Media Lengua, Kichwa, and Spanish Vowels*\
+Nominated for a thesis honour award · Research supported by SSHRC\
+Supervisor: Dr. Jesse Stewart
+:::
+
+::: cv-entry
+**Bachelor of Science (Honours), Psychology** [2022]{.cv-date}\
+University of Saskatchewan, Saskatoon, SK\
+Thesis: *Can you follow instructions? Metacognitive Judgments of Instruction Following*\
+Supervisor: Dr. Valerie Thompson
+:::
+
+## Research {.cv-section}
+
+### Publications
+
+::: cv-pubs
+- Newman, I., Gasimova, Z., **Hadley, S.**, Rouhi, L., Zieper, T., Hines, D., Carlson, O., & Thompson, V. (2026). What makes us think (analytically)? In G. E. Gignac (Ed.), *A Research Agenda for Intelligence* (Elgar Research Agenda Series). Edward Elgar Publishing. Cheltenham, United Kingdom.
+
+- Stewart, J., Meakins, F., Algy, C., McPherson, L. B., Round, E., **Hadley, S.**, Akrigg, H., Fazlat, L., Osborne, C., & Shumay, S. (revisions in progress). What drives the presence of frication in Kriol-origin words in Gurindji Kriol? *Phonological Data and Analysis.*
+
+- Stewart, J., **Hadley, S.**, Gagne, M., & Osborne, C. (submitted). The status of the voiceless labial fricative in Imbabura Media Lengua, Imbabura Kichwa, and Spanish. *Journal of Language Contact.*
+
+- **Hadley, S.**, & Thompson, V. (in progress). Can you follow instructions? Metacognitive judgments of instruction following. *Psychonomic Bulletin and Review.*
+:::
+
+### Conference Presentations and Posters
+
+::: cv-pubs
+- **Hadley, S.**, & Stewart, J. (2026, June). *A manual method for quantifying lingual ultrasound data: An articulatory analysis of Ecuadorian Spanish and Media Lengua mid- and high-vowels.*
+
+- **Hadley, S.**, & Stewart, J. (2025, November). *An ultrasound investigation of articulatory overlap in Ecuadorian Media Lengua, Kichwa, and Spanish high- and mid-vowels.* Oral presentation, Alberta Conference on Linguistics, Edmonton, AB.
+
+- **Hadley, S.** (2025, June). *An ultrasound study of high- and mid-vowel articulation in Media Lengua.* Oral presentation, Graduate Language Research Day (online), Toronto, ON.
+
+- **Hadley, S.** (2025, June). *An ultrasound study of high- and mid-vowel articulation in Media Lengua.* Poster presentation, Canadian Linguistic Association Annual Conference, Montréal, QC.
+
+- Stewart, J., **Hadley, S.**, Gagne, M., & Osborne, C. (2025, June). *The status of the voiceless labial fricative in Imbabura Media Lengua, Imbabura Kichwa, and Spanish.* Canadian Linguistic Association Annual Conference, Montréal, QC.
+
+- **Hadley, S.**, & Thompson, V. (2024, November). *Can you follow instructions? Metacognitive judgments of instruction following.* Poster presentation, Psychonomics, New York City, USA.
+
+- **Hadley, S.**, & Stinson, S. (2021, April). *Anagram problem solving and memory: The effects of anagram difficulty on retention.* Poster presentation, National Council on Undergraduate Research (online).
+:::
+
+## Teaching Experience {.cv-section}
+
+::: cv-entry
+**Teaching Assistant, Introduction to Linguistic Analysis (LING 101)** [Fall 2026]{.cv-date}\
+Department of Linguistics, University of Alberta
+:::
+
+::: cv-entry
+**Guest Lecture, Phonetics (LING 242)** [December 2025]{.cv-date}\
+*Using Ultrasound for Articulatory Analysis*\
+University of Saskatchewan
+:::
+
+::: cv-entry
+**Guest Lecture, Research Methods in Linguistics (LING 403/804)** [December 2025]{.cv-date}\
+*Community-Based Research in Methodology Development: Field-Based Ultrasound*\
+University of Saskatchewan
+:::
+
+::: cv-entry
+**Teaching Assistant, Indigenous Languages and Stories (LING 114)** [Winter 2025]{.cv-date}\
+Department of Linguistics, University of Saskatchewan
+:::
+
+::: cv-entry
+**Teaching Assistant, Phonetics (LING 242)** [Fall 2024]{.cv-date}\
+Department of Linguistics, University of Saskatchewan
+:::
+
+::: cv-entry
+**Teaching Assistant, Introduction to English Grammar (LING 110)** [Summer/Fall 2024]{.cv-date}\
+Department of Linguistics, University of Saskatchewan
+:::
+
+## Research and Work Experience {.cv-section}
+
+::: cv-entry
+**Lab Manager / Research Assistant, Cognitive Science Lab** [April 2023 – June 2026]{.cv-date}\
+Department of Psychology and Health Studies, University of Saskatchewan
+
+- Managed a team of 8–12 graduate students, research assistants, and honours students: supported junior members' projects, organized regular meetings, delegated tasks, and kept communication and workflow running smoothly.
+- Ran the day-to-day functioning of the lab, including financial and ethics responsibilities and data management.
+- Carried out study design, data collection, and data analysis for multiple projects using SPSS, R, Gorilla, Prolific, and SONA.
+- Assisted Dr. Valerie Thompson in writing a successful NSERC Discovery Grant (2023).
+:::
+
+::: cv-entry
+**Editorial Skills Mentor, Undergraduate Research Journal (USURJ)** [September 2025 – April 2026]{.cv-date}\
+Murray Library Writing Centre, University of Saskatchewan
+
+- Mentored the undergraduate volunteer editors for the journal's Social Sciences section, providing writing and editorial guidance.
+- Met one-on-one with editors to review submissions for writing and research quality and to craft feedback for authors.
+- Helped editors develop their editing, copyediting, and communication skills and led discussions on best practices in manuscript assessment.
+:::
+
+::: cv-entry
+**Writing Tutor, Murray Library Writing Centre** [September 2024 – April 2026]{.cv-date}\
+University of Saskatchewan
+
+- Helped students across disciplines (linguistics, psychology, English, nursing, education) develop academic writing for coursework, scholarships, and job and school applications.
+- Gave constructive feedback on structure, grammar, clarity, and style using a student-led tutoring approach.
+:::
+
+## Honours and Awards {.cv-section}
+
+::: cv-entry
+**Anthropology Research Grant in Linguistics** [2026]{.cv-date}\
+Nominated by the USask Department of Linguistics; awarded by the Department of Anthropology.
+:::
+
+::: cv-entry
+**SSHRC Canada Graduate Scholarship – Master's (CGS-M)** [2025]{.cv-date}\
+Tri-Council award, held at the University of Saskatchewan.
+:::
+
+::: cv-entry
+**Saskatchewan Innovation and Opportunity Scholarship (SIOS)** [2025]{.cv-date}\
+Awarded in conjunction with the CGS-M.
+:::
+
+::: cv-entry
+**Global Engagement Scholarship** [2024]{.cv-date}\
+University of Saskatchewan award for learning or research abroad.
+:::
+
+::: cv-entry
+**Travel Award** [2024]{.cv-date}\
+University of Saskatchewan award for conference travel.
+:::
+
+## Service and Volunteer Experience {.cv-section}
+
+::: cv-entry
+**Department Representative (PhD), Linguistics Graduate Student Association** [November 2026]{.cv-date}\
+University of Alberta
+:::
+
+::: cv-entry
+**Colloquium Liaison, Linguistics Graduate Student Association** [September 2026 – present]{.cv-date}\
+University of Alberta
+:::
+
+::: cv-entry
+**Symposium Judge, USSU Undergraduate Symposium** [February 2026]{.cv-date}\
+Judged undergraduate posters and videos at the annual University of Saskatchewan Students' Union symposium.
+:::
+
+::: cv-entry
+**Abstract Reviewer, National Conference on Undergraduate Research (NCUR)** [December 2025]{.cv-date}\
+Reviewed undergraduate abstracts for NCUR 2026 in Richmond, VA.
+:::
+
+::: cv-entry
+**Mentor, USSU Graduate Opportunities Workshop** [September 2025]{.cv-date}\
+Advised undergraduates on USask graduate programs, applications, preparing for graduate school, and post-graduate careers.
+:::
+
+::: cv-entry
+**Volunteer, Theraplay Speech Therapy**, Saskatoon, SK [January 2023 – May 2024]{.cv-date}\
+Assisted a speech-language pathologist with out-patient groups of children and young adults in classroom and play settings.
+:::
+
+::: cv-entry
+**Undergraduate Associate Editor, USask Undergraduate Research Journal** [November 2021 – April 2022]{.cv-date}\
+Handled intake of Social Sciences submissions, recruited reviewers for double-blind review, and corresponded with authors.
+:::
+
+::: cv-entry
+**Copyeditor, *The Sheaf* Newspaper** [September 2021 – April 2022]{.cv-date}\
+Reviewed and copyedited submissions from the newspaper's writers.
+:::
+
+::: cv-entry
+**Financial Literacy Presenter, PennyDrops** [September 2021 – April 2022]{.cv-date}\
+Presented to undergraduate students on credit and financial literacy.
+:::

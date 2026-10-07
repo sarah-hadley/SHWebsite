@@ -1,12 +1,10 @@
 ---
-title: "Sarah Hadley, MA"
+title: "Sarah Hadley, B.Sc, M.A"
 ---
 
 ![](images/headshot2026.jpg){style="float:left; width:250px; margin-right:20px; margin-bottom:10px;"}
 
-Hello!
-
-My name is Sarah Hadley, and I am a PhD student in Linguistics at the University of Alberta. I received my BSc with Honours in Psychology and my MA in Linguistics at the University of Saskatchewan.
+Hello! I am currently a PhD student in Linguistics at the University of Alberta. I received my BSc with Honours in Psychology in 2022 and my MA in Linguistics in 2026 at the University of Saskatchewan.
 
 My current research interests include: cognitive linguistics/psycholinguistics and (mis)information processing; particularly the relationship between personality and openmindedness with veracity judgments concerning misinformation seen online.
 
