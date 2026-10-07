@@ -2,7 +2,7 @@
 title: "Sarah Hadley, MA"
 ---
 
-![](images/profile.jpg){style="float:left; width:250px; margin-right:20px; margin-bottom:10px;"}
+![](images/headshot2026.jpg){style="float:left; width:250px; margin-right:20px; margin-bottom:10px;"}
 
 Hello!
 
