@@ -1,16 +1,19 @@
 ---
-title: "My Website"
+title: "Sarah Hadley, MA"
 ---
+
+![](images/profile.jpg){style="float:left; width:250px; margin-right:20px; margin-bottom:10px;"}
 
 Hello!
 
-My name is Sarah Hadley, and I am a PhD student in Linguistics at the University of Alberta.
+My name is Sarah Hadley, and I am a PhD student in Linguistics at the University of Alberta. I received my BSc with Honours in Psychology and my MA in Linguistics at the University of Saskatchewan.
 
-My research interests include: cognitive linguistics/psycholinguistics and (mis)information processing; particularly the relationship between personality and openmindedness with veracity judgments concerning misinformation seen online. 
+My current research interests include: cognitive linguistics/psycholinguistics and (mis)information processing; particularly the relationship between personality and openmindedness with veracity judgments concerning misinformation seen online.
 
-I am a linguist, a writing tutor, and aspiring academic. 
+I am a linguist, a writing tutor, and aspiring academic.
 
-Here's where you can find my work: 
-ORCID ID: 0009-0001-9599-8779
-ResearchGate: https://www.researchgate.net/profile/Sarah-Hadley-5?ev=hdr_xprf
+Here's where you can find my work:
 
+- ORCID ID: 0009-0001-9599-8779
+
+- ResearchGate: <https://www.researchgate.net/profile/Sarah-Hadley-5?ev=hdr_xprf>
