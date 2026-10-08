@@ -186,7 +186,7 @@ University of Saskatchewan award for conference travel.
 ## Service and Volunteer Experience {.cv-section}
 
 ::: cv-entry
-**Department Representative (PhD), Linguistics Graduate Student Association** [November 2026]{.cv-date}\
+**Department Representative (PhD), Linguistics Graduate Student Association** [Fall 2026]{.cv-date}\
 University of Alberta
 :::
 
